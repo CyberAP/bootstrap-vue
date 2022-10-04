@@ -87,7 +87,7 @@
     "vue-functional-data-merge": "^3.1.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.13.16",
+    "@babel/cli": "^7.19.3",
     "@babel/core": "^7.16.5",
     "@babel/plugin-transform-modules-commonjs": "^7.14.0",
     "@babel/plugin-transform-runtime": "^7.16.5",
@@ -118,7 +118,7 @@
     "eslint-config-vue": "^2.0.2",
     "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-jest": "^24.3.6",
-    "eslint-plugin-markdown": "^2.1.0",
+    "eslint-plugin-markdown": "^3.0.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.4.1",
     "eslint-plugin-promise": "^5.1.0",
